@@ -5,3 +5,9 @@ body {
     font-family: "Edu AU VIC WA NT Guides", sans-serif;
     margin-bottom: 100px;
 }
+header {
+    border-bottom: solid 2px rgb(70, 240, 211);
+    padding: 20px;
+    font-size: 32px;
+    color: blueviolet;
+}
